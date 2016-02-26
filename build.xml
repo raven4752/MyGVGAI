@@ -1,4 +1,4 @@
-<project name="gvgai" default="cleandist" basedir=".">
+<project name="gvgai" default="cleandist" basedir="D:\my documents\GitHub\MyGVGAI">
 
 	<property name="build.dir" value="." />
 	<property name="root.dir" value="." />
